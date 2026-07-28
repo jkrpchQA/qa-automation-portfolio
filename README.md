@@ -1,6 +1,6 @@
 # QA Automation Portfolio
 
-![tests](https://github.com/USERNAME/qa-automation-portfolio/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/jkrpchQA//qa-automation-portfolio/actions/workflows/tests.yml/badge.svg)
 ![python](https://img.shields.io/badge/python-3.12-blue)
 ![playwright](https://img.shields.io/badge/Playwright-1.x-45ba4b)
 ![pytest](https://img.shields.io/badge/pytest-8.x-0a9edc)
@@ -46,11 +46,11 @@ qa-automation-portfolio/
 └── requirements.txt
 ```
 
-## Запуск (macOS)
+## Запуск
 
 ```bash
 # 1. Клонировать и перейти в проект
-git clone https://github.com/USERNAME/qa-automation-portfolio.git
+git clone https://github.com/jkrpchQA//qa-automation-portfolio.git
 cd qa-automation-portfolio
 
 # 2. Виртуальное окружение
@@ -82,11 +82,11 @@ pytest --headed          # UI-тесты в видимом браузере (н�
 
 ## Стек
 
-| Слой | Инструмент |
-|------|-----------|
-| Язык | Python 3.12 |
+| Слой   | Инструмент |
+|--------|-----------|
+| Язык   | Python 3.12 |
 | Раннер | pytest |
-| UI | Playwright |
-| API | requests |
+| UI     | Playwright |
+| API    | requests |
 | Отчёты | pytest-html |
-| CI | GitHub Actions |
+| CI     | GitHub Actions |
